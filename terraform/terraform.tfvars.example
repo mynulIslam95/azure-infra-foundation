@@ -1,0 +1,4 @@
+prefix   = "nf"
+location = "germanywestcentral"
+# Office LAN only. Never 0.0.0.0/0 for management.
+allowed_management_cidr = "10.20.0.0/24"
